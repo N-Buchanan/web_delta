@@ -1,0 +1,13 @@
+aiohttp==2.1.0
+async-timeout==1.2.1
+beautifulsoup4==4.6.0
+bs4==0.0.1
+chardet==3.0.3
+click==6.7
+Flask==0.12.2
+itsdangerous==0.24
+Jinja2==2.9.6
+MarkupSafe==1.0
+multidict==2.1.6
+Werkzeug==0.12.2
+yarl==0.10.2
