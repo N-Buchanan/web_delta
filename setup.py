@@ -12,7 +12,7 @@ setup(
         keywords = ['web', 'scraping', 'delta', 'changes'],
         install_requires=[
             'aiohttp==2.1.0',
-            'Flask==0.12.2'
+            'Flask==1.0'
         ],
         classifiers = []
         )
