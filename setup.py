@@ -11,7 +11,7 @@ setup(
         download_url = 'https://github.com/N-Buchanan/web_delta/archive/0.1.2.tar.gz',
         keywords = ['web', 'scraping', 'delta', 'changes'],
         install_requires=[
-            'aiohttp==2.1.0',
+            'aiohttp==3.7.4',
             'Flask==0.12.2'
         ],
         classifiers = []
